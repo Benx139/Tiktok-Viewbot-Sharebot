@@ -1,5 +1,5 @@
 import os
-try:
+try:https://vm.tiktok.com/ZGJVYcX1J/
     import pyclack
     
 except:
